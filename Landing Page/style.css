@@ -1,5 +1,4 @@
 *{
-    
     padding: 0;
     box-sizing: border-box;
 }
@@ -8,8 +7,9 @@ img{
     height: 300px;
 }
 .logo{
-    width: 300px;
+    width: 250px;
     height: 40px;
+    margin-bottom: 100px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -28,12 +28,27 @@ main{
     height: 500px;
     padding: 2em;
 }
+.mock{
+    width: 550px;
+    height: 450px;
+    margin-left: 100px;
+}
 .first2 .white{
     height: 40px;
     width: 170px;
     border-radius: 20px;
     background-color: #fff;
     border: #fff;
+    margin-left: 500px;
+}
+.first1 .pink{
+    height: 40px;
+    width: 250px;
+    border: #ff0099;
+    background-color: #ff0099;
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 20px;
 }
 .second{
     display: flex;
@@ -43,8 +58,116 @@ main{
     justify-content: center;
     align-items: center;
     border: 1px solid black;
-
-  
+    border-radius: 10px;
+    margin: 100px;
+    margin-bottom: 10px;
+}
+.third{
+    display: flex;
+    width: 1000px;
+    height: 450px;
+    padding: 2em;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:100px ;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.fourth{
+    display: flex;
+    width: 1000px;
+    height: 450px;
+    padding: 2em;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 100px;
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+.fifth{
+    display: flex;
+    background-color:#003333 ;
+    color: #fff;
+    padding: 100px;
+}
+.footer{
+    width: 250px;
+    height: 40px;
+}
+.phone{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.loca{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.mail{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.one{
+    width: 400px;
+}
+.two{
+    margin-top: 50px;
+    margin: 50px;
+    width:100px;
+}
+.three{
+    margin-top: 50px;
+    margin: 50px;
+}
+.face{
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+}
+.twit{
+    width: 50px;
+    height: 50px;
+}
+.insta{
+    width: 50px;
+    height: 50px;
+}
+.Copyright{
+    margin-top: 250px;
+    font-size: 14px;
+}
+.ash {
+    display: flex;
+}
+.is{
+    display: flex;
+}
+.tired{
+    display: flex;
+}
+.pink2{
+    background-color: #ff0099;
+    color: #fff;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    border-color: #ff0099;
+    margin-left: 50px;
+}
+.mid{
+    margin: 50px;
+    width: 450px;
+    margin-left: 400px;
+    height: 75px;
 
 }
 
